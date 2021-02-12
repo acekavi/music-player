@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/music_player/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/music_player/static/js/main.e1585162.chunk.js",
-    "main.js.map": "/music_player/static/js/main.e1585162.chunk.js.map",
-    "runtime-main.js": "/music_player/static/js/runtime-main.3a9b260d.js",
-    "runtime-main.js.map": "/music_player/static/js/runtime-main.3a9b260d.js.map",
-    "static/js/2.15454609.chunk.js": "/music_player/static/js/2.15454609.chunk.js",
-    "static/js/2.15454609.chunk.js.map": "/music_player/static/js/2.15454609.chunk.js.map",
-    "static/js/3.5f790ef1.chunk.js": "/music_player/static/js/3.5f790ef1.chunk.js",
-    "static/js/3.5f790ef1.chunk.js.map": "/music_player/static/js/3.5f790ef1.chunk.js.map",
-    "index.html": "/music_player/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/music_player/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.15454609.chunk.js.LICENSE.txt": "/music_player/static/js/2.15454609.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/music_player/static/media/logo.6ce24c58.svg"
+    "main.css": "/music-player/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/music-player/static/js/main.e1585162.chunk.js",
+    "main.js.map": "/music-player/static/js/main.e1585162.chunk.js.map",
+    "runtime-main.js": "/music-player/static/js/runtime-main.1c0b6d8c.js",
+    "runtime-main.js.map": "/music-player/static/js/runtime-main.1c0b6d8c.js.map",
+    "static/js/2.15454609.chunk.js": "/music-player/static/js/2.15454609.chunk.js",
+    "static/js/2.15454609.chunk.js.map": "/music-player/static/js/2.15454609.chunk.js.map",
+    "static/js/3.5f790ef1.chunk.js": "/music-player/static/js/3.5f790ef1.chunk.js",
+    "static/js/3.5f790ef1.chunk.js.map": "/music-player/static/js/3.5f790ef1.chunk.js.map",
+    "index.html": "/music-player/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/music-player/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.15454609.chunk.js.LICENSE.txt": "/music-player/static/js/2.15454609.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/music-player/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3a9b260d.js",
+    "static/js/runtime-main.1c0b6d8c.js",
     "static/js/2.15454609.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.e1585162.chunk.js"
