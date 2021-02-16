@@ -1,0 +1,17 @@
+nav {
+  min-height: 10vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  button {
+    background: transparent;
+    padding: 0.5em 0.7em;
+    border: 2px solid rgb(70, 70, 70);
+    cursor: pointer;
+    transition: all 0.3s ease;
+    &:hover {
+      background: rgb(70, 70, 70);
+      color: white;
+    }
+  }
+}
