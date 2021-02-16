@@ -13,6 +13,7 @@
   justify-content: center;
   input {
     width: 100%;
+    min-width: 15rem;
     // padding: 1rem 2rem;
   }
   p {
@@ -26,6 +27,7 @@
   align-items: center;
   padding: 1rem;
   width: 25%;
+  min-width: 15rem;
   svg {
     cursor: pointer;
   }

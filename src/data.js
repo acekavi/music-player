@@ -9,7 +9,7 @@ function chillHop() {
       audio: "https://mp3.chillhop.com/serve.php/?mp3=10075",
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
-      active: true,
+      active: false,
     },
     {
       name: "Daylight",
@@ -62,6 +62,16 @@ function chillHop() {
       active: false,
     },
     //ADD MORE HERE
+    // {
+    //   name: "Obata Maa",
+    //   cover:
+    //     "https://i.ytimg.com/vi/57cZpp4sTmY/maxresdefault.jpg",
+    //   artist: "Kasun Kalhara",
+    //   audio: "https://free-mp3-download.net/tmp/71a81f284b9f8d21227d9b1ea93d3394/Kasun%20Kalhara%20-%20Obata%20Ma%20(Acoustic%20Version).mp3",
+    //   color: ["#205950", "#2ab3bf"],
+    //   id: uuidv4(),
+    //   active: false,
+    // },
   ];
 }
 
