@@ -10,7 +10,6 @@
     width: 15rem;
     height: 15rem;
     border-radius: 50%;
-    border: 0.5rem solid rgb(188, 235, 227);
     object-fit: cover;
     object-position: center;
     /* Safari 4.0 - 8.0 */
@@ -44,6 +43,19 @@
 }
 
 .img-rotate {
-  -webkit-animation: infiniteRotate 2s linear infinite; /* Safari */
+  -webkit-animation: infiniteRotate 60s linear infinite; /* Safari */
   animation: infinite-rotate 60s linear infinite;
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.rotateSong {
+  animation: rotate 20s linear forwards infinite;
 }
