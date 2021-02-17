@@ -73,12 +73,12 @@ function chillHop() {
       active: false,
     },
     {
-      name: "Atheethaye Maa",
+      name: "Lose Yourself",
       cover:
-        "https://i.ytimg.com/vi/57cZpp4sTmY/maxresdefault.jpg",
-      artist: "Kasun Kalhara",
-      audio: "https://www.topsinhalamp3.net/downloads/s25jfrnr5x15i/Atheethaye_Ma.mp3",
-      color: ["#9F7C69", "#B63E09"],
+        "https://i.jeded.com/i/eminem-lose-yourself.21636.jpg",
+      artist: "Eminem",
+      audio: "https://wowplus.net/wp-content/uploads/2020/05/Eminem-Lose-Yourself-HD.mp3",
+      color: ["#7A6961", "#B59C11"],
       id: uuidv4(),
       active: false,
     },

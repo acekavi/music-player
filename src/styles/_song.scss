@@ -12,24 +12,6 @@
     border-radius: 50%;
     object-fit: cover;
     object-position: center;
-    /* Safari 4.0 - 8.0 */
-    @-webkit-keyframes infiniteRotate {
-      0% {
-        -webkit-transform: rotate(0deg);
-      }
-      100% {
-        -webkit-transform: rotate(360deg);
-      }
-    }
-    /* Standard syntax */
-    @keyframes infinite-rotate {
-      0% {
-        -webkit-transform: rotate(0deg);
-      }
-      100% {
-        -webkit-transform: rotate(360deg);
-      }
-    }
   }
   h2 {
     // Top Right Bottom Left
@@ -42,20 +24,12 @@
   }
 }
 
-.img-rotate {
-  -webkit-animation: infiniteRotate 60s linear infinite; /* Safari */
-  animation: infinite-rotate 60s linear infinite;
-}
-
-@keyframes rotate {
-  from {
-    transform: rotate(0deg);
+.volume-control {
+  display: flex;
+  flex-direction: row;
+  padding: 2rem 2rem 0 2rem;
+  input {
+    margin-left: 0.7rem;
+    width: 100%;
   }
-  to {
-    transform: rotate(360deg);
-  }
-}
-
-.rotateSong {
-  animation: rotate 20s linear forwards infinite;
 }
